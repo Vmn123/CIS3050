@@ -1,2 +1,2 @@
 # CIS3050
-Oracle SQL (Amazon Database Project)
+Oracle SQL Project (Amazon Database)
